@@ -1,0 +1,53 @@
+._foot {
+    padding: 210px 0 238px;
+    min-width: 1230px;
+    background-size: 100% 100%;
+}
+._dmfoot {
+    font: 24px 'Dosis', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+._desab {
+    font-size: 16px;
+    line-height: 24px;
+    color: white;
+    display: inline-block;
+    width: 310px;
+    margin-bottom: 25px;
+    text-align: justify;
+    letter-spacing: -0.5px;
+}
+._nostyle li {
+    list-style: none;
+}
+._menuf li a {
+    font-size: 16px;
+    color: white;
+    line-height: 22px;
+    margin-bottom: 10px;
+    display: block;
+}
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+    margin-left: -5px;
+}
+.list-inline > li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+._add-foot.row::before{
+    display: table;
+    content: "";
+    width: 10%;
+}
+p{
+    color: #fff;
+}
+*{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+}
