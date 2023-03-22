@@ -1,0 +1,13 @@
+
+body{
+    background-image: url("https://shopgarena.net/wp-content/uploads/2022/08/Top-hinh-Valorant-dep-nhat-full-HD.jpg");
+}
+
+.buttonSignUp{
+    background-color: #ff4655;
+    color: #fff;
+    font-weight: 700;
+}
+.buttonSignUp:hover{
+    font-weight: 800;
+}

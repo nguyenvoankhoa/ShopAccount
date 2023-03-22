@@ -1,0 +1,25 @@
+.video{
+    width: 100vw;
+    background-image: url("https://shopgarena.net/wp-content/uploads/2022/08/Hinh-Valorant-4K-full-HD.jpg");
+    height: 70vh;
+    position: relative;
+}
+
+.main-account{
+    background-image: url("https://tophinhanhdep.com/wp-content/uploads/2021/10/Valorant-Logo-Wallpapers.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.iframe{
+    position: absolute;
+    top: 10%;
+    width: 50%;
+    height: 85%;
+}
+.iframe2{
+    position: absolute;
+    left:50%;
+    top: 10%;
+    width: 50%;
+    height: 85%;
+}

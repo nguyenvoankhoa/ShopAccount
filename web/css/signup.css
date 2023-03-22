@@ -1,0 +1,46 @@
+html,
+body {
+    height: 100%;
+    background-image: url("https://inkythuatso.com/uploads/images/2022/03/thumb-1920-1072679-16-15-52-24.jpg");
+}
+
+body {
+    align-items: center;
+    background-color: #f5f5f5;
+}
+
+.form-signin {
+    max-width: 350px;
+    padding: 3px;
+    padding-top: 5%;
+
+}
+
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+.buttonSignUp{
+    background-color: #ff4655;
+    color: #fff;
+    font-weight: 700;
+}
+.buttonSignUp:hover{
+    color: hsl(36deg 100% 68%);
+    font-weight: 800;
+}
+h1{
+    color: #fff;
+}
+.link{
+    color: #fff;
+    text-decoration: none;
+}
+*{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+}
+.signForm{
+    min-height: 475px;
+    padding: 5px 25px 20px;
+    background-image: url(https://accvalorant.com/images/bg-frmdk.png);
+}

@@ -1,0 +1,32 @@
+span{
+    font-weight: 700;
+    color: #fff;
+}
+.pagewrap {
+    position: relative;
+    width: 1230px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+    margin-left: -5px;
+}
+._date-post li {
+    color: #999999;
+    font-style: italic;
+}
+
+.list-inline > li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+p {
+    margin: 0 0 10px;
+}
+.row{
+    margin: 0;
+}

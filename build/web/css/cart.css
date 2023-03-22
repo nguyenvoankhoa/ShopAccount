@@ -1,0 +1,21 @@
+.pagewrap {
+    position: relative;
+    width: 1230px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+#button-style {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    font: 14px 'Anton-Regular';
+    color: white;
+    text-transform: uppercase;
+    background-color: #FF4655;
+}
+body{
+    background-image: url("https://tophinhanhdep.com/wp-content/uploads/2021/10/Valorant-Logo-Wallpapers.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+

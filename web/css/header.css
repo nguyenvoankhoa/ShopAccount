@@ -1,0 +1,31 @@
+.nav{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+}
+body{
+    position: relative;
+}
+ul{
+    list-style-type: none;
+
+}
+li{
+    padding: 5px;
+    padding-top: 20px;
+}
+.col-3 a{  
+    color: #fff !important;
+    text-decoration: none;
+    padding: 5px;
+    transition: 0.3s;
+
+}
+li a:hover{
+    color: red !important;
+}
+.header{
+    position: absolute;
+    top: 0;
+
+}
+
